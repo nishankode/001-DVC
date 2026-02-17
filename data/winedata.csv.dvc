@@ -1,0 +1,5 @@
+outs:
+- md5: 819ad9d35003c466eb1f4d7ba8a5ba4c
+  size: 85691
+  hash: md5
+  path: winedata.csv
